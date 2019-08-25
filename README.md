@@ -12,4 +12,4 @@ python statement*/runner.py
 
 ### Problems
 
-* Problem 1 - [Containers Problem]("statement1/README.md"). 
+* Problem 1 - [Containers Problem](statement1). 
