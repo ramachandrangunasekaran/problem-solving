@@ -12,8 +12,6 @@ def buy_container(a, b):
 
 
 def find_total_containers(n, inputs):
-    if n == len(inputs):
-        return ''
     for input in inputs:
         pricing_slab = map(int, input.split(' '))
         # newly bought & emptied containers
