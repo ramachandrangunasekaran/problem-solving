@@ -7,7 +7,7 @@ A List of problem solving statements and its solution written in python.
 *Requirement: Python 2.7*
 
 ```
-python statement*/runner.py
+cd statement* && python runner.py
 ```
 
 ### Problems
